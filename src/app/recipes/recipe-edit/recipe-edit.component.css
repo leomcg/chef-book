@@ -1,0 +1,16 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.btn-success {
+  margin-right: 8px;
+}
+
+.form-start {
+  margin-top: 10px;
+}
+
+.description {
+  margin-top: 10px;
+}
