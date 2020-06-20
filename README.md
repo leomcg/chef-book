@@ -1,4 +1,4 @@
-# See the app running!
+# This app is up and running!
 https://chef-book-9904d.web.app/
 
 
